@@ -70,7 +70,7 @@ const Footer = () => {
                         <div className='py-8 px-4 col-span-2 sm:col-auto'>
                             <h1 className='text-xl font-semibold sm:text-left mb-3'>Address</h1>
                             <div>
-                                <p className='mb-3'>Gorakhpur, Uttar Pradesh</p>
+                                <p className='mb-3'>Noida, Uttar Pradesh</p>
                                 <p>+91 9988776655</p>
                                 {/* social links */}
                                 <div className='flex items-center gap-3 mt-6'>
